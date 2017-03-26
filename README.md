@@ -1,4 +1,4 @@
-# Chrome-Extensions3
+# Chrome-Extensions3(TweetEasy)
 Mumbai Hackathon 2017 project
 
 A set of several google chrome extensions to perform certain basic funtionality.
